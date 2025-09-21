@@ -68,8 +68,8 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd node-express-boilerplate
+git clone [<repository-url>](https://github.com/shariq104/node-typescript-starter.git)
+cd node-typescript-starter
 ```
 
 2. Install dependencies:
